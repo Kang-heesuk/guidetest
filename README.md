@@ -1,3 +1,14 @@
-# My Awesome API
+# Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+타겟
+
+목적
+
+활용방법 \(+ 오픈소스 개발의 즐거움\)
+
+각 세션 별 요약
+
+
+
+
+
