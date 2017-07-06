@@ -6,9 +6,13 @@
 
 ## 오픈소스 바르게 사용하기
 
-* [Defining Methods](methods.md)
+* [Understanding the legal implications of open source](methods.md)
+* [Why do people care so much about the legal side of open source?](why-do-people-care-so-much-about-the-legal-side-of-open-source.md)
+* [Are public GitHub projects open source?](are-public-github-projects-open-source.md)
 
 ## 오픈소스 컨트리뷰션 바르게하기
+
+* Why contribute to open source?
 
 ## 내 프로젝트 바르게 공개하기
 
